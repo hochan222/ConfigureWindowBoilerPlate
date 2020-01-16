@@ -1,24 +1,18 @@
-# my-app
+# TailWind Css + Vue + Electron
 
 ## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+yarn global add @vue/cli
 
-### Compiles and minifies for production
-```
-yarn build
-```
+vue create [project-name]
 
-### Lints and fixes files
-```
-yarn lint
-```
+vue add router
+vue add vuex
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+vue add electron-builder
+>https://github.com/nklayman/vue-cli-plugin-electron-builder
+
+yarn electron:serve
+
+> https://tailwindcss.com/
+> https://www.youtube.com/watch?v=ZAjUGkhqUP4
