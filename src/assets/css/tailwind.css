@@ -3,3 +3,18 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.clickable {
+    -webkit-app-region: no-drag;
+}
+
+::-webkit-scrollbar {
+    background-color: #2B2B2B;
+    border-left: 1px solid #3E3E3E;
+    width: .65rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #6B6B6B;
+    border-radius: 10px;
+}

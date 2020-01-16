@@ -17,4 +17,5 @@ yarn electron:serve
 > https://tailwindcss.com/  
 > https://www.youtube.com/watch?v=ZAjUGkhqUP4
 
-![boilerplateTailwind](./img/ElectronTailwind.PNG)
+> slack: https://www.youtube.com/watch?v=xTiWDVKz8u4  
+> 17:16
