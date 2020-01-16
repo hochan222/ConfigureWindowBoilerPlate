@@ -14,5 +14,7 @@ vue add electron-builder
 
 yarn electron:serve
 
-> https://tailwindcss.com/
+> https://tailwindcss.com/  
 > https://www.youtube.com/watch?v=ZAjUGkhqUP4
+
+![boilerplateTailwind](./img/ElectronTailwind.PNG)
